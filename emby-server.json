@@ -1,0 +1,31 @@
+{
+  "name": "emby-server",
+  "release": "11.2-RELEASE",
+  "artifact": "https://github.com/alucryd/iocage-plugin-emby.git",
+  "pkgs": [
+    "lang/mono",
+    "multimedia/libass",
+    "x11-fonts/fontconfig",
+    "print/freetype2",
+    "converters/fribidi",
+    "security/gnutls",
+    "converters/iconv",
+    "audio/opus",
+    "net/samba48",
+    "databases/sqlite3",
+    "multimedia/libtheora",
+    "multimedia/libva",
+    "audio/libvorbis",
+    "graphics/webp",
+    "multimedia/libx264",
+    "devel/libzvbi"
+  ],
+  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
+  "fingerprints": {
+    "plugin-default": [{
+      "function": "sha256",
+      "fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
+    }]
+  },
+  "official": false
+}
