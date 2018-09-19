@@ -20,7 +20,7 @@
     "multimedia/libx264",
     "devel/libzvbi"
   ],
-  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
+  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
