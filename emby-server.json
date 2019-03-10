@@ -17,6 +17,7 @@
     "multimedia/libva",
     "audio/libvorbis",
     "graphics/webp",
+    "graphics/libraw",
     "multimedia/libx264",
     "devel/libzvbi"
   ],
