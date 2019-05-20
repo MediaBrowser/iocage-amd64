@@ -11,7 +11,6 @@
     "security/gnutls",
     "converters/iconv",
     "audio/opus",
-    "net/samba48",
     "databases/sqlite3",
     "multimedia/libtheora",
     "multimedia/libva",
@@ -19,10 +18,11 @@
     "graphics/webp",
     "graphics/libraw",
     "graphics/ImageMagick6",
+    "multimedia/libvpx",
     "multimedia/libx264",
     "devel/libzvbi"
   ],
-  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
+  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
