@@ -16,7 +16,7 @@
     "graphics/libraw",
     "graphics/png",
     "graphics/webp",
-    "lang/mono",
+    "lang/mono6.8",
     "multimedia/libass",
     "multimedia/libtheora",
     "multimedia/libva",
