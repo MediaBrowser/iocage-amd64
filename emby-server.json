@@ -27,7 +27,7 @@
     "x11/libX11",
     "x11-fonts/fontconfig"
   ],
-  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
+  "packagesite": "http://pkg.freebsd.org/FreeBSD:11:amd64/latest",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
