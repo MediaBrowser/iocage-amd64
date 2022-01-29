@@ -9,6 +9,7 @@
     "converters/fribidi",
     "databases/sqlite3",
     "devel/icu",
+    "devel/libinotify",
     "devel/libunwind",
     "converters/libiconv",
     "devel/libzvbi",
