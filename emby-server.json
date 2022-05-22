@@ -1,6 +1,6 @@
 {
   "name": "emby-server",
-  "release": "12.3-RELEASE",
+  "release": "13.1-RELEASE",
   "artifact": "https://github.com/MediaBrowser/iocage-amd64.git",
   "pkgs": [
     "audio/libogg",
@@ -30,7 +30,7 @@
     "textproc/expat",
     "x11-fonts/fontconfig"
   ],
-  "packagesite": "http://pkg.freebsd.org/FreeBSD:12:amd64/latest",
+  "packagesite": "http://pkg.freebsd.org/FreeBSD:13:amd64/latest",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
