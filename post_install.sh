@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Install the binary package
-pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.0.60/emby-server-freebsd12_4.7.0.22_amd64.pkg
+pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.7.0.60/emby-server-freebsd12_4.7.0.60_amd64.pkg
 
 # Enable the service
 sysrc -f /etc/rc.conf emby_server_enable="YES"
