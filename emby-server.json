@@ -27,7 +27,7 @@
     "security/gnutls",
     "security/krb5",
     "security/openssl",
-    "textproc/expat",
+    "textproc/expat2",
     "x11-fonts/fontconfig"
   ],
   "packagesite": "http://pkg.freebsd.org/FreeBSD:13:amd64/latest",
