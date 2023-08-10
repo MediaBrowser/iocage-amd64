@@ -1,6 +1,6 @@
 {
   "name": "emby-server",
-  "release": "13.1-RELEASE",
+  "release": "13.2-RELEASE",
   "artifact": "https://github.com/MediaBrowser/iocage-amd64.git",
   "pkgs": [
     "audio/libogg",
@@ -35,6 +35,7 @@
     "print/freetype2",
     "security/gnutls",
     "security/krb5",
+    "security/mbedtls",
     "security/openssl",
     "textproc/expat2",
     "x11-fonts/fontconfig",
