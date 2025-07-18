@@ -35,7 +35,7 @@
     "print/freetype2",
     "security/gnutls",
     "security/krb5",
-    "security/mbedtls2",
+    "security/mbedtls3",
     "security/openssl",
     "textproc/expat2",
     "x11-fonts/fontconfig",
